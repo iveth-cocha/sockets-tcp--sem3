@@ -14,7 +14,7 @@ public class servidor {
         
         try {
             // crear socket para cliente y servidor Y UN PUERTO
-            ServerSocket socketServidor = new ServerSocket(5000);
+            ServerSocket socketServidor = new ServerSocket(1234);
             System.out.println("Experando conexiones.....");
 
             while (true) {
