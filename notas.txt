@@ -1,0 +1,3 @@
+udp usa datagramas
+tcp en flujo no usa datagramas usa input y output sream y ppermite capturarlos con get
+se recomineda cerrar el bloque cliente con finally
